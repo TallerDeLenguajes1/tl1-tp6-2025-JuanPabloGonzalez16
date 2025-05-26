@@ -1,5 +1,4 @@
-﻿using System;
-int op;
+﻿int op;
 double a;
 do
 {
